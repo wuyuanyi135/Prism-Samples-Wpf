@@ -1,0 +1,1 @@
+register commands in viewmodel
